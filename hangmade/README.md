@@ -1,12 +1,13 @@
 HANG-MADE
 =========
-ULTRA-ORDINAIRE
+ULTRA-ORDINAIRE<br/>
+
 The whole idea of this project is based on the idea that Meccanica is a support to hold anything
 people want to, or need to, in the kitchen of course, but also in all the spaces in which meccanica can
-be used.
+be used.<br />
 We decided to draw a few hooks which people should be able to adapt to what they are looking for.
 The shape of the hook can be the same to support a towel or a bike, but the size of it would of course
-have to be adapted.
+have to be adapted.<br />
 Thinking of the development of 3d printing and the projection that maybe within a few years
 everybody would be able to own a 3d printer at home, we kept these hanging tools as a database of
 5 basic shapes in which users could just pick up the shape they need, transform it and print it by
