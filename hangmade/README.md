@@ -14,3 +14,16 @@ everybody would be able to own a 3d printer at home, we kept these hanging tools
 themselves to use it the way they want to. Looking even further, we would love to picture people
 sharing what they’ve made of the basic shapes with other users and help them improving the use
 they can make of Meccanica. 
+
+project by:
+
+**ultra-ordinaire** ([ultra-ordinaire.com](http://www.ultra-ordinaire.com/ "ultra-ordinaire.com"))<br />
+
+
+mentors:
+
+**Valcucine** ([valcucine.it](http://www.valcucine.it/ "valcucine.it"))<br />
+**dotdotdot** ([dotdotdot.it](http://www.dotdotdot.it/ "dotdotdot.it"))<br />
+**Enrico Bassi** ([fablabtorino.org](http://fablabtorino.org/ "fablabtorino.org"))<br />
+**Massimo Menichinelli** ([openp2pdesign.org](http://openp2pdesign.org/ "openp2pdesign.org"))<br />
+**Stefano Paradiso** ([fablabtorino.org](http://fablabtorino.org/ "fablabtorino.org"))<br />
